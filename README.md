@@ -1,6 +1,6 @@
 # List of STM32 programs:
 - EEPROM programmer
-- Smokehouse thermometer
+- Smokehouse thermometer  (in progress...)
 
 # Code editor used to write programs:
 - System Workbench for STM32 (Eclipse IDE for C/C++ Developers)
