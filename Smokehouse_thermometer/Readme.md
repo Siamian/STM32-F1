@@ -1,4 +1,4 @@
-# Smokehouse thermometer
+# Smokehouse thermometer  (in progress...)
 
 # Brief
 The purpose of this project is to create a thermometer for the smoker. The temperature is displayed on a 2x16 LCD display.
