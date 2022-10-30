@@ -2,7 +2,7 @@
 
 # Brief
 The purpose of this project is to create an EEPROM programmer (24LC16B).
-The process of reading, writing and erasing is controlled in the terminal by means of UART. The microcontroller communicates with the 24LC16B via the I2C bus.
+The process of reading, writing and erasing is controlled in the terminal by means of UART interface. The microcontroller communicates with the 24LC16B via the I2C bus.
 
 
 # Software development
