@@ -11,5 +11,4 @@
   Build: 11526_20211125_0815 (UTC)
 
 # Microcontrollers used:
-- AVR ATmega328-PU
-- AVR ATtiny13A-PU
+- STM32F103C8T6
