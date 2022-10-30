@@ -1,7 +1,7 @@
 # Smokehouse thermometer  (in progress...)
 
 # Brief
-The purpose of this project is to create a thermometer for the smoker. The temperature is displayed on a 2x16 LCD display.
+The purpose of this project is to create a thermometer for the smoker. The temperature is measured by the DS18B20 sensor and then displayed on the 2x16 LCD display.
 In the future, the project is to be extended with a buzzer informing about the temperature change.
 
 
