@@ -1,7 +1,7 @@
 # Smokehouse thermometer  (in progress...)
 
 # Brief
-The purpose of this project is to create a thermometer for the smokehouse. The temperature is measured by the 3x DS18B20 sensors and then displayed on the 2x16 LCD display.
+The purpose of this project is to create a thermometer for the smokehouse. The temperature is measured by the 3x DS18B20 (1-wire) sensors and then displayed on the 2x16 LCD display (I2C).
 
 # Software development
 To develop firmware for this project following tools were used:
