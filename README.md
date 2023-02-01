@@ -8,4 +8,4 @@
 - STM32CubeIDE Version: 1.11.2 Build: 14494_20230119_0724 (UTC)
 
 # Microcontrollers used:
-- STM32F103C8T6
+- STM32F103C8T6 (BLUE PILL)
