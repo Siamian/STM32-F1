@@ -1,7 +1,7 @@
 # Open_door_sensor
 
 # Brief
-The purpose of this project is to create a door opening sensor. Using the RGB diode, we receive information about opening / closing the door (green -closed, blue-opened, change from close to open - raise PWM red).
+The purpose of this project is to create a door opening sensor. Using the RGB diode, we receive information about opening / closing the door (green -closed, blue-opened, red - change from close to open).
 
 # Software development
 To develop firmware for this project following tools were used:
