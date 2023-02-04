@@ -1,4 +1,4 @@
-# Smokehouse thermometer  (in progress...)
+# Smokehouse thermometer
 
 # Brief
 The purpose of this project is to create a thermometer for the smokehouse. The temperature is measured by the 3x DS18B20 (1-wire) sensors and then displayed on the 2x16 LCD display (I2C).
@@ -15,4 +15,4 @@ To develop firmware for this project following tools were used:
 
 
 # The final result
-![alt text](___ "Logo Title Text 1")
+![alt text](https://github.com/Siamian/STM32-projects/blob/ac8d4aab90cced5929361746b11e866e04d365a5/Smokehouse_thermometer/Prototyp_smokehouse_thermometer.jpg "Logo Title Text 1")
