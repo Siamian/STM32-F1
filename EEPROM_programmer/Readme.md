@@ -20,4 +20,4 @@ To develop firmware for this project following tools were used:
 - STM32F103C8T6 (BLUE PILL)
 
 # The final result
-![alt text]([---](https://github.com/Siamian/STM32-projects/blob/a12580488135bbdefef9716157211d415ddd76a6/EEPROM_programmer/Prototyp_EEPROM_programmer.jpg) "Logo Title Text 1")
+![alt text](https://github.com/Siamian/STM32-projects/blob/d22dbfb8c0258087645209fb48ed9fdae7f3f581/EEPROM_programmer/Prototyp_EEPROM_programmer.jpg) "Logo Title Text 1")
