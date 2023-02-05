@@ -7,7 +7,6 @@ The purpose of this project is to create a thermometer for the smokehouse. The t
 To develop firmware for this project following tools were used:
 
 - STM32CubeIDE Version: 1.11.2 Build: 14494_20230119_0724 (UTC)
-- STM32 ST-LINK Utility Version 4.6.0.
 - Altium Designer Version: 22.10.1 (Build 41)
   
 # Microcontroller used:
