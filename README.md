@@ -1,7 +1,7 @@
 # List of STM32 programs:
 - EEPROM programmer
 - Open_door_sensor
-- Smokehouse thermometer
+- Smokehouse_thermometer
 
 # Code editor used to write programs:
 - System Workbench for STM32 (Eclipse IDE for C/C++ Developers) Version: Neon.3 Release (4.6.3) Build id: 20170314-1500
