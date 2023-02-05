@@ -8,13 +8,10 @@ The process of reading, writing and erasing is controlled in the terminal by mea
 # Software development
 To develop firmware for this project following tools were used:
 
-- System Workbench for STM32 (Eclipse IDE for C/C++ Developers)
-  Version: Neon.3 Release (4.6.3)
-  Build id: 20170314-1500
-- STM32 ST-LINK Utility
-  Version 4.6.0.
-- Tera Term 
-  Version 4.103 (SVN# 7769)
+- System Workbench for STM32 (Eclipse IDE for C/C++ Developers) Version: Neon.3 Release (4.6.3) Build id: 20170314-1500
+- STM32 ST-LINK Utility Version 4.6.0.
+- Tera Term Version 4.103 (SVN# 7769)
+- Altium Designer Version: 22.10.1 (Build 41)
 
 # Microcontroller used:
 - STM32F103C8T6 (BLUE PILL)
